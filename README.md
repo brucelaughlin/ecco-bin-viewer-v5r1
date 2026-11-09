@@ -1,0 +1,1 @@
+Geodesic bin viewer (the in situ data viewer of the ECCO in situ profile reports). Made by `ecco-insitu bin-viewer --github`; this branch is replaced on every publish, so it has no history. Run: run_20261027_142247. Code: https://github.com/brucelaughlin/ECCO-Insitu-Python (src/ecco_insitu/diagnostics/bin_viewer).
